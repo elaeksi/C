@@ -1,6 +1,8 @@
 #include <stdlib.h>
 #include <stdio.h>
-
+//girilen mac skorlarıyla takım puanı hesaplama kodu
+//while ile kontrolü yaptık kontolü while sonunda ki girdi komutlarıyla sağladık 
+//if le galibiyet, yenilgi veya berabelik mi olduğunu belirledik
 int main()
 {
     int galibiyet=0, beraberlik=0, yenilgi=0;
